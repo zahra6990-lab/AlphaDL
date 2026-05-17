@@ -1,0 +1,32 @@
+{
+  "job_id": "api_0deeebf6c7ca43d7be3e218c",
+  "mode": "zip_split",
+  "file_url": "https://free-dl88.myalphadl.com/CmatvNeOFSNrlINn84-BOg/THE.TRAITORS.US.S03E07.480P.WEB.DL.RMT.ALPHADL.MKV",
+  "suggested_filename": "THE.TRAITORS.US.S03E07.480P.WEB.DL.RMT.ALPHADL.MKV",
+  "total_size_bytes": 376348398,
+  "created_at_utc": "2026-05-17T20:36:50.182568+00:00",
+  "zip_folder": "jobs/api_0deeebf6c7ca43d7be3e218c/zip",
+  "zip_main_file": "THE.TRAITORS.US.S03E07.480P.WEB.DL.RMT.ALPHADL_split.zip",
+  "zip_parts": [
+    {
+      "name": "THE.TRAITORS.US.S03E07.480P.WEB.DL.RMT.ALPHADL_split.z01",
+      "path": "jobs/api_0deeebf6c7ca43d7be3e218c/zip/THE.TRAITORS.US.S03E07.480P.WEB.DL.RMT.ALPHADL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "THE.TRAITORS.US.S03E07.480P.WEB.DL.RMT.ALPHADL_split.z02",
+      "path": "jobs/api_0deeebf6c7ca43d7be3e218c/zip/THE.TRAITORS.US.S03E07.480P.WEB.DL.RMT.ALPHADL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "THE.TRAITORS.US.S03E07.480P.WEB.DL.RMT.ALPHADL_split.z03",
+      "path": "jobs/api_0deeebf6c7ca43d7be3e218c/zip/THE.TRAITORS.US.S03E07.480P.WEB.DL.RMT.ALPHADL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "THE.TRAITORS.US.S03E07.480P.WEB.DL.RMT.ALPHADL_split.zip",
+      "path": "jobs/api_0deeebf6c7ca43d7be3e218c/zip/THE.TRAITORS.US.S03E07.480P.WEB.DL.RMT.ALPHADL_split.zip",
+      "size_bytes": 93233132
+    }
+  ]
+}
